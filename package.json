@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "nodemon index.js",
-    "build": "tsc"
+    "test": "nodemon index.js"
   },
   "author": "raghav-misra",
   "license": "ISC",
