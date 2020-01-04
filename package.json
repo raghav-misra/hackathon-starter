@@ -1,0 +1,21 @@
+{
+  "name": "hackathon-template",
+  "version": "1.0.0",
+  "description": "NodeJS Starter Template with TypeScript and Handlebars",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon index.js",
+    "build": "tsc"
+  },
+  "author": "raghav-misra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "typescript": "^3.7.4"
+  }
+}
