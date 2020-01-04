@@ -16,7 +16,7 @@ Node.js hackathon starter template with:
 4. Now you're all set up!
 
 ### **OR**
-![Run On Replit](static/assets/replit.svg)
+[![Run on Repl.it](https://repl.it/badge/github/raghav-misra/hackathon-starter)](https://repl.it/github/raghav-misra/hackathon-starter)
 
 Use repl.it to get up and running immediately!
 
