@@ -12,6 +12,11 @@ app.set("view engine", "hbs");
 
 /* Routes */
 app.get('/', (req, res) => {
-    res.render('index');
+    res.render('index', {
+        greeting: "Hello! This text "
+    });
 });
+
+/* Start Server @ :3000 */
+app.listen(3000, () => console.log("Thanks for using this starter! Your server's up at port 3000."))
 
